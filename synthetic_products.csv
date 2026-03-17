@@ -1,0 +1,6 @@
+id,product_name,category,price_inr,supplier_name,location,min_order_qty,rating,reviews
+P1001,Industrial Air Compressor 50L,Machinery,18500,Sharma Engineering Works,"Delhi, India",1,4.3,128
+P1002,LED Panel Light 24W,Electrical,450,BrightLite Solutions,"Mumbai, India",50,4.5,342
+P1003,Stainless Steel Water Tank 500L,Home & Utility,7200,AquaSafe Industries,"Ahmedabad, India",5,4.2,89
+P1004,Automatic Packaging Machine,Machinery,125000,PackSmart Technologies,"Pune, India",1,4.6,54
+P1005,Plastic Storage Crates,Logistics,320,Durable Plastics Co.,"Chennai, India",100,4.1,210

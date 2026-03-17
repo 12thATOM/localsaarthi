@@ -1,0 +1,11 @@
+type,category,seller,name,price_inr,unit,rating,description
+Product,Machinery,Sharma Engineering Works,Industrial Air Compressor 50L,18500,per unit,4.3,Heavy-duty air compressor for industrial use with low noise and high efficiency.
+Product,Electrical,BrightLite Solutions,LED Panel Light 24W,450,per piece,4.5,Energy-efficient LED panel light suitable for offices and commercial spaces.
+Product,Home & Utility,AquaSafe Industries,Stainless Steel Water Tank 500L,7200,per unit,4.2,"Durable, corrosion-resistant water tank for long-term storage."
+Product,Logistics,Durable Plastics Co.,Plastic Storage Crates,320,per piece,4.1,Stackable plastic crates for storage and transportation.
+Product,Electronics,TechNova Supplies,Wireless Barcode Scanner,2200,per unit,4.4,High-speed wireless barcode scanner for retail and warehouse use.
+Service,Marketing,GrowthBoost Agency,Digital Marketing Service,15000,per month,4.6,Comprehensive digital marketing services including SEO and ads.
+Service,IT Services,CodeCraft Solutions,Website Development,25000,per project,4.5,Custom website development for businesses and startups.
+Service,Logistics,FastTrack Logistics,Freight Delivery Service,5000,per shipment,4.2,Reliable and fast logistics service across major cities.
+Service,Consulting,BizConsult Experts,Business Consulting,10000,per session,4.7,Professional consulting to improve business growth and operations.
+Service,Customer Support,SupportPro Services,24/7 Customer Support,8000,per month,4.3,Outsourced customer support service available round the clock.
